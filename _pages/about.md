@@ -15,3 +15,5 @@ Welcome! I am a fifth-year PhD candidate in Marketing at the Wharton School, Uni
 -  Assortment Management and Pricing
 -  Subscription Programs
 
+Here is my [CV](https://www.dropbox.com/s/vymoc1p7em6sqiw/QiYu_CV.pdf?dl=0).
+
