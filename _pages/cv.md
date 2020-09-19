@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ------
-   Ph.D in Marketing, University of Pennsylvania, 2021 (expected)
+   Ph.D. in Marketing, University of Pennsylvania, 2021 (expected)
 
    M.A. in Economics, Tsinghua University, 2016
 
