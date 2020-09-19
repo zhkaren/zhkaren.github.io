@@ -23,7 +23,7 @@ Conference Presentations
 
    ISMS Marketing Science Conference 2019, Rome, Italy
 
-**“The Impact of Subscription Programs on Customer Purchases.”**
+**“The Impact of Subscription Programs on Customer Purchases”**
 
    ISMS Marketing Science Conference 2018, Philadelphia, PA
 
