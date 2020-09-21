@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a fifth-year PhD candidate in Marketing at the Wharton School, University of Pennsylvania. 
+Welcome! I am a fifth-year PhD candidate in Marketing at the Wharton School, University of Pennsylvania.
+
 
 **Research Interests**
 -  Quantitative Marketing
@@ -15,5 +16,5 @@ Welcome! I am a fifth-year PhD candidate in Marketing at the Wharton School, Uni
 -  Assortment Management and Pricing
 -  Subscription Programs
 
-Here is my [CV](https://www.dropbox.com/s/vymoc1p7em6sqiw/QiYu_CV.pdf?dl=0).
+I am on the 2020-21 job market and will be available for interviews. Here is my [CV](https://www.dropbox.com/s/vymoc1p7em6sqiw/QiYu_CV.pdf?dl=0). 
 
