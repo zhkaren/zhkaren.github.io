@@ -2,6 +2,8 @@
 layout: archive
 title: ""
 permalink: /publications/
+redirect_from: 
+  - /research/
 author_profile: true
 ---
 
