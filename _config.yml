@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Qi Yu"
   avatar           : "headshot2.jpg"
-  bio              : "Ph.D. Candidate in Marketing at Wharton"
+  bio              : "Ph.D. Candidate in Marketing at Wharton
+                      Email: qiyu@wharton.upenn.edu"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
