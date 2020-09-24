@@ -1,5 +1,4 @@
 ---
-{% raw %}{% seo %}{% endraw %}
 permalink: /
 excerpt: "About me"
 author_profile: true
