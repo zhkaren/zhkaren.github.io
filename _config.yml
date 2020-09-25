@@ -84,7 +84,7 @@ author:
   avatar           : "headshot2.jpg"
   bio              : "Ph.D. Candidate in Marketing at Wharton"
   location         : #"Location"
-  employer         : "https://marketing.wharton.upenn.edu/profile/qiyu/#overview"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : qiyu@wharton.upenn.edu
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "https://marketing.wharton.upenn.edu/profile/qiyu/#overview"
   google_plus      :
   keybase          :
   instagram        :
