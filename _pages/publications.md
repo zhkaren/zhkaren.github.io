@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Qi Yu's Personal Website"
 description: "Qi Yu - Ph.D. Candidate in Marketing at Wharton"
 permalink: /publications/
 redirect_from: 
