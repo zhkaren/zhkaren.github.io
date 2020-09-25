@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /contact/
 title: "Qi Yu's Personal Website"
 description: "Qi Yu - Ph.D. Candidate in Marketing at Wharton"
