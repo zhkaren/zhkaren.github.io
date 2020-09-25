@@ -2,7 +2,6 @@
 permalink: /
 excerpt: "About me"
 author_profile: true
-title: "Qi Yu's Personal Website"
 description: "Qi Yu - Ph.D. Candidate in Marketing at Wharton"
 redirect_from: 
   - /about/
