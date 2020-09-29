@@ -2,7 +2,7 @@
 permalink: /
 excerpt: "About me"
 author_profile: true
-description: "Welcome! I am a fifth-year PhD candidate in Marketing at the Wharton School, University of Pennsylvania. My research interests are focused on: quantitative marketing, retailing, assortment management and pricing, and subscription programs. I am on the 2020-21 job market and will be available for interviews."
+description: "Welcome! I am a fifth-year PhD candidate in Marketing at the Wharton School, University of Pennsylvania. My research interests focus on: quantitative marketing, retailing, assortment management and pricing, and subscription programs. I am on the 2020-21 job market and will be available for interviews."
 redirect_from: 
   - /about/
   - /about.html
