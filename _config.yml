@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qi Yu"
+title                    : "Karen Zhang"
 title_separator          : "-"
-name                     : &name "Qi Yu"
-description              : &description "Ph.D. Candidate in Marketing at Wharton"
-url                      : https://qiyuqy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Karen Zhang"
+description              : &description "Ph.D. Candidate in Healthcare Management and Economics at Wharton"
+url                      : https://zhkaren.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qiyuqy/qiyuqy.github.io"
+repository               : "zhkaren/zhkaren.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
