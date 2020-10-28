@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Karen Zhang"
-  avatar           : "headshot2.jpg"
+  avatar           : #"headshot2.jpg"
   bio              : "Ph.D. Candidate in Healthcare Management and Economics at Wharton"
   location         : #"Location"
   employer         : 
