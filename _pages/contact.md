@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /contact/
-description: "Qi Yu - Ph.D. Candidate in Marketing at Wharton"
+description: "Karen Zhang - Ph.D. Candidate in Healthcare Mangement and Economics at Wharton"
 author_profile: true
 redirect_from: 
   - /contact.html
@@ -9,12 +9,10 @@ redirect_from:
 
 **Email**
 
-qiyu@wharton.upenn.edu
+hongyuzh@wharton.upenn.edu
 
 **Address**
 
-700 Jon M. Huntsman Hall
-
-3730 Walnut Street
-
-Philadelphia, PA 19104
+Colonial Penn Center, 
+3641 Locust Walk 
+Philadelphia, PA 19104-6218
