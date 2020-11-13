@@ -6,4 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf" target="_blank">PDF.</a>
+
+<embed src="https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf" type="application/pdf" />
