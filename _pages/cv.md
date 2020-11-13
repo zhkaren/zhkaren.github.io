@@ -8,13 +8,13 @@ redirect_from:
 <embed src="https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf" type="application/pdf" />
 ---
 
-
-
-<html>
+<html lang="fr">
+<head>
+<!-- note the meta tag -->
+<meta http-equiv="refresh" content="0; url=https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf" />
+  <meta charset="utf-8">
+  <title>CV</title>
+</head>
 <body>
-
 </body>
-<script type="text/javascript">
-    document.location = "zhkaren.github.io/raw/master/files/CV.pdf"
-</script>
 </html>
