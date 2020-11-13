@@ -10,4 +10,11 @@ redirect_from:
 
 
 
-[CV.pdf](https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf)
+<html>
+<body>
+
+</body>
+<script type="text/javascript">
+    document.location = "zhkaren.github.io/raw/master/files/CV.pdf"
+</script>
+</html>
