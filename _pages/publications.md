@@ -10,9 +10,9 @@ author_profile: true
 Job Market Paper
 ------
 
-  **ost-Sharing Reduction Subsidy: Who Benefits and How It Should be Financed**, Evidence from California Health Exchange
+**Cost-Sharing Reduction Subsidy: Who Benefits and How It Should be Financed**, Evidence from California Health Exchange
 
-  With annual spending of $7 billion, the Affordable Care Act (ACA) Cost-Sharing-Reduction (CSR) subsidies offer additional benefits such as a lower deductible and a lower out-of-pocket maximum to eligible low-income enrollees who purchase any qualified plan on the exchanges. In October 2017, the government terminated the CSR payment, but still requiring insurers to offer such extra benefits. I investigate how CSR de-funding impacted insurers, consumers, and public spending. Combining individual-level claims data from a major insurer in California and individual-level enrollment data, I estimate a model of insurance demand and insurers’ competition. I find that CSR eligible households are significantly less price sensitive and more expensive for insurers to cover. Consequently, counterfactuals show that CSR de-funding discourages insurers’ on-exchange participation, and consumers are worse off due to increased net premiums.
+ With annual spending of $7 billion, the Affordable Care Act (ACA) Cost-Sharing-Reduction (CSR) subsidies offer additional benefits such as a lower deductible and a lower out-of-pocket maximum to eligible low-income enrollees who purchase any qualified plan on the exchanges. In October 2017, the government terminated the CSR payment, but still requiring insurers to offer such extra benefits. I investigate how CSR de-funding impacted insurers, consumers, and public spending. Combining individual-level claims data from a major insurer in California and individual-level enrollment data, I estimate a model of insurance demand and insurers’ competition. I find that CSR eligible households are significantly less price sensitive and more expensive for insurers to cover. Consequently, counterfactuals show that CSR de-funding discourages insurers’ on-exchange participation, and consumers are worse off due to increased net premiums.
 
 Working Paper
 ------
