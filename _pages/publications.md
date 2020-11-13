@@ -1,6 +1,6 @@
 ---
 layout: archive
-description: "Qi Yu - Ph.D. Candidate in Marketing at Wharton"
+description: "Karen Zhang - Ph.D. Candidate in Healthcare Management and Economics at Wharton"
 permalink: /publications/
 redirect_from: 
   - /research/
@@ -10,18 +10,22 @@ author_profile: true
 Job Market Paper
 ------
 
-  **The Dark Side of Adding a Category: Will Existing Ones "Pay the Price"**, with Ron Berman and Eric T. Bradlow
+  **ost-Sharing Reduction Subsidy: Who Benefits and How It Should be Financed**, Evidence from California Health Exchange
 
-  ‘More is better’ has been a belief held by many retailers when they manage product assortments. We challenge this conventional wisdom by demonstrating that a retailer may face more price sensitive demand for existing products when expanding its assortments. To measure the effects of assortment expansion on price sensitivity, we exploit the state of Washington’s privatization of liquor sales in 2012 that generated exogenous variation in retailers’ assortments over time. We find that customers are on average more price sensitive when purchasing from other drink categories after a store started to carry liquor. To understand the differential changes in the price sensitivity across product categories depending on whether they are complements or substitutes to the new product category, we build a demand model that simultaneously estimates the degree of complementarity between product categories and the changes in price sensitivity upon assortment expansion. We find that the increase in the price sensitivity happens mostly in the categories that are complements to the new one, and that these changes cannot be rationalized by alternative explanations, e.g., correlated preferences across product categories and changes in error variances. Based on the demand estimates, we conduct counterfactual simulations and show that the observed prices are consistent with retailers’ (biased) belief that the price sensitivity does not vary with assortment, which results in significant profit loss.
+  With annual spending of $7 billion, the Affordable Care Act (ACA) Cost-Sharing-Reduction (CSR) subsidies offer additional benefits such as a lower deductible and a lower out-of-pocket maximum to eligible low-income enrollees who purchase any qualified plan on the exchanges. In October 2017, the government terminated the CSR payment, but still requiring insurers to offer such extra benefits. I investigate how CSR de-funding impacted insurers, consumers, and public spending. Combining individual-level claims data from a major insurer in California and individual-level enrollment data, I estimate a model of insurance demand and insurers’ competition. I find that CSR eligible households are significantly less price sensitive and more expensive for insurers to cover. Consequently, counterfactuals show that CSR de-funding discourages insurers’ on-exchange participation, and consumers are worse off due to increased net premiums.
 
 Working Paper
 ------
-[**The Impact of Subscription Programs on Customer Purchases**](https://www.dropbox.com/s/cghi5izjd1u1fac/Subscriptions%2020200130.pdf?dl=0), with Raghuram Iyengar and Young-Hoon Park
+**Cost-sharing reduction subsidies in ACA exchanges contributed to stability of Bronze and Silver plans** (prepare for submission), with Guy David, Ezra Fishman, Andrea DeVries, Jason Margus and Jennifer Kowalski
 
-Invited for 3nd round review at *Journal of Marketing Research*
+We estimated the extent to which adverse selection was present in the individual market by comparing spending among individual-market enrollees to spending among small-group enrollees insured with actuarially similar products from a large national issuer, 2014 through 2017. We found that individual-market enrollees only incurred higher spending than their small-group counterparts in plans of generous coverage, which corresponded to less than 10% of person-years of individual market enrollment. Thus, the large majority of the individual market, which is covered by Bronze and Silver products, did not experience more adverse selection than was present in the small-group market. The CSR subsidies played an important role in attracting low-risk low-income households and contribute to the stability of the individual market. 
 
-Subscription programs are increasingly popular among a wide variety of retailers. These types of programs give members access to a set of exclusive benefits for a fixed fee upfront. In this paper, we examine the causal effect of adopting a subscription program on subsequent customer behavior using a unique panel data of customers’ purchasing record before and after their adoption of a subscription program. To account for self-selection and identify the individual-level treatment effects, we combine a difference-in-differences approach with a generalized random forest that matches each member of the program with comparable non-members. We find the subscription leads to a large increase in customer purchases. The effect is economically significant, persistent over time, and heterogeneous across customers. Interestingly, only one-third of the effect on customer purchases is due to the economic benefits of the subscription program and the remaining is attributed to becoming a member per se. We provide evidence that members experience a sunk cost fallacy due to the upfront payment that subscription programs entail. We discuss the implications of our findings for customer retention and subscription services.
+**Adverse Selection in Individual Health Insurance Market** (manuscript), with Guy David, Ezra Fishman, Andrea DeVries
+
+This paper examines the adverse selection among the on-exchange insurees on two dimensions: riskier insurees’ enrollment in more generous plans, and their strategic decisions on when to enroll and how long to stay covered. We find clear evidence of adverse selection in coverage in all non-Bronze tiers in both on-exchange and small-group plans. The level of selection increases with plan generosity, and is severer among on-exchange insurees than small-group insurees across all tiers.
+We find no evidence of adverse selection in enrollment duration among small-group insurees. For on-exchange insurees, only those who enroll in generous plans strategically choose enrollment duration, and premium subsidy receipt significantly increases an on-exchange insuree’s probability to stay in coverage. 
 
 Work in Progress
 -----
-**Pricing Strategy Post Assortment Expansion**, with Ron Berman and Eric T. Bradlow
+**The Trade-off Between Permanent and Temporary Nursing Staff**, with Steve Schawb and Kija Korowicki
+
