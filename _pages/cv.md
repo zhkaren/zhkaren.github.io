@@ -5,6 +5,9 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+<embed src="https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf" type="application/pdf" />
 ---
 
-<embed src="https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf" type="application/pdf" />
+
+
+[CV.pdf](https://github.com/zhkaren/zhkaren.github.io/raw/master/files/CV.pdf)
